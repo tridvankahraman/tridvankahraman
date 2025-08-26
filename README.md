@@ -3,9 +3,11 @@
 
 ## 🎯 About
 
-I come from a strong background in electronics and engineering education, with over a decade of teaching and mentoring experience. In recent years, I’ve transitioned into software and data, using tools like CODESYS, Structured Text, Python, and SQL to approach engineering problems with both logic and clarity.
+I come from a strong background in electronics and engineering education, with over a decade of teaching and mentoring experience.
+In recent years, I’ve transitioned into software and data, using tools like CODESYS, Structured Text, Python, and SQL to approach engineering problems with both logic and clarity.
 
-Today, I design PLC-based automation systems for firefighting vehicles – where code, control, and safety must work in sync and fail safely. My work lives at the intersection of hands-on engineering and smart, mission-critical software. And somewhere in between, I write about what connects systems and souls.
+Today, I design PLC-based automation systems for firefighting vehicles – where code, control, and safety must work in sync and fail safely.
+My work lives at the intersection of hands-on engineering and smart, mission-critical software. And somewhere in between, I write about what connects systems and souls.
 
 ## 🛠️ Tools & Technologies
 
@@ -44,7 +46,8 @@ Today, I design PLC-based automation systems for firefighting vehicles – where
 
 [![**TCM Skylift**](assets/images/TCM%20Skylift.svg)](https://tcmskylift.com)  
 
-**Embedded Software Developer (Feb 2025 – Present)**  
+**Embedded Software Developer**  
+*(Feb 2025 – Present)*  
 
 - Developed SIL2-ready, safety-critical software to optimize firefighting vehicle performance.
 - Troubleshot PLC and embedded systems to improve reliability and reduce downtime.
@@ -52,7 +55,8 @@ Today, I design PLC-based automation systems for firefighting vehicles – where
 
 [![**IgniCode**](assets/images/Igni%20Code.svg)](https://ignicode.com/)  
 
-**Information Technology Tutor** (Sep 2022 – Jan 2025)  
+**Information Technology Tutor**  
+*(Sep 2022 – Jan 2025)*  
 
 - Facilitated interactive programming workshops for young learners.
 - Boosted children's coding skills through hands-on robotics projects.
@@ -60,13 +64,15 @@ Today, I design PLC-based automation systems for firefighting vehicles – where
 
 [![**Turkish Air Force**](assets/images/Turkish%20Air%20Force.svg)](https://www.hvkk.tsk.tr)  
 
-**Department Chair** (Sep 2017 – Aug 2022)  
+**Department Chair**  
+*(Sep 2017 – Aug 2022)*  
 
 - Managed educational programs at TurAF CEIS School to enhance skills of officers and NCOs.
 - Developed specialized courses for military professionals to improve their expertise.
 - Implemented structured learning plans to boost the overall skill set of the personnel.  
 
-**Lecturer** (Sep 2011 – Aug 2017)  
+**Lecturer**  
+*(Sep 2011 – Aug 2017)*  
 
 - Simplified complex electronic concepts, improving student comprehension and course success rates.
 - Delivered engaging lectures and hands-on sessions in Electronics Engineering to undergraduate students.
@@ -74,7 +80,8 @@ Today, I design PLC-based automation systems for firefighting vehicles – where
 
 [![**NATO**](assets/images/NATO.svg)](https://www.nato.int)  
 
-**Project Officer** (Jul 2020 – Jan 2021)  
+**Project Officer**  
+*(Jul 2020 – Jan 2021)*  
 
 - Delivered project support across finance, procurement, and logistics, ensuring compliance with NATO standards and timelines.
 - Coordinated daily operations and streamlined communication across cross-functional teams to keep multinational projects on track.
@@ -82,7 +89,8 @@ Today, I design PLC-based automation systems for firefighting vehicles – where
 
 [![**Turkish National Defense University**](assets/images/Turkish%20National%20Defense%20University.svg)](https://www.msu.edu.tr)  
 
-**Parttime Lecturer** (Sep 2018 – Jun 2020)  
+**Parttime Lecturer**  
+*(Sep 2018 – Jun 2020)*  
 
 - Applied innovative educational methods to foster student engagement.
 - Simplified understanding of sophisticated electronic ideas.
@@ -92,11 +100,13 @@ Today, I design PLC-based automation systems for firefighting vehicles – where
 
 [![**Marmara University**](assets/images/Marmara%20University.svg)](https://www.marmara.edu.tr)  
 
-**Electronics and Computer Education - B.Sc.** (Sep 2005 – Jun 2010)  
+**Electronics and Computer Education - B.Sc.**  
+*(Sep 2005 – Jun 2010)*  
 
 [![**Clarusway**](assets/images/Clarusway.svg)](https://clarusway.com/)  
 
-**Data Analytics - Certified Training** (Jan 2022 – Oct 2022)  
+**Data Analytics - Certified Training**  
+*(Jan 2022 – Oct 2022)*  
 
 ## 📫 Contact
 
