@@ -11,7 +11,7 @@ Today, I design PLC-based automation systems for firefighting vehicles – where
 
 ### Languages
 
-![C#](assets/badges/C#.svg)
+![C#](assets/badges/C%20Sharp.svg)
 ![Structured Text](assets/badges/Structured%20Text.svg)
 ![Python](assets/badges/Python.svg)
 ![SQL](assets/badges/SQL.svg)  
