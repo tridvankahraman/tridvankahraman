@@ -11,7 +11,7 @@ Today, I design PLC-based automation systems for firefighting vehicles – where
 
 ### Languages
 
-![C#](assets/badges/CODESYS.svg)
+![C#](assets/badges/C#.svg)
 ![Structured Text](assets/badges/Structured%20Text.svg)
 ![Python](assets/badges/Python.svg)
 ![SQL](assets/badges/SQL.svg)  
@@ -88,7 +88,9 @@ Parttime Lecturer (Sep 2018 – Jun 2020)
 
 Electronics and Computer Education - B.Sc. (Sep 2005 – Jun 2010)  
 
-[![**Clarusway**](assets/images/Clarusway.svg)](https://clarusway.com/) – Data Analytics - Certified Training (Jan 2022 – Oct 2022)  
+[![**Clarusway**](assets/images/Clarusway.svg)](https://clarusway.com/)  
+
+Data Analytics - Certified Training (Jan 2022 – Oct 2022)  
 
 ## 📫 Contact
 
