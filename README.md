@@ -52,6 +52,7 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 - Developed SIL2-ready, safety-critical software to optimize firefighting vehicle performance.
 - Troubleshot PLC and embedded systems to improve reliability and reduce downtime.
 - Performed SIL2-compliant software testing to ensure reliability and safety.  
+  
 
 [![**IgniCode**](assets/images/Igni%20Code.svg)](https://ignicode.com/)  
 
@@ -61,6 +62,7 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 - Facilitated interactive programming workshops for young learners.
 - Boosted children's coding skills through hands-on robotics projects.
 - Designed engaging educational activities using Python and Arduino.  
+  
 
 [![**Turkish Air Force**](assets/images/Turkish%20Air%20Force.svg)](https://www.hvkk.tsk.tr)  
 
@@ -77,6 +79,7 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 - Simplified complex electronic concepts, improving student comprehension and course success rates.
 - Delivered engaging lectures and hands-on sessions in Electronics Engineering to undergraduate students.
 - Taught core courses in Circuit Theory, Electronics, Microcontrollers, and Programming, integrating both theory and practical lab work.  
+  
 
 [![**NATO**](assets/images/NATO.svg)](https://www.nato.int)  
 
@@ -86,6 +89,7 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 - Delivered project support across finance, procurement, and logistics, ensuring compliance with NATO standards and timelines.
 - Coordinated daily operations and streamlined communication across cross-functional teams to keep multinational projects on track.
 - Monitored project performance, delivered progress reports, and recommended process improvements to boost efficiency in multinational operations.  
+  
 
 [![**Turkish National Defense University**](assets/images/Turkish%20National%20Defense%20University.svg)](https://www.msu.edu.tr)  
 
@@ -102,6 +106,7 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 
 **Electronics and Computer Education - B.Sc.**  
 *(Sep 2005 – Jun 2010)*  
+  
 
 [![**Clarusway**](assets/images/Clarusway.svg)](https://clarusway.com/)  
 
