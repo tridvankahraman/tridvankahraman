@@ -44,7 +44,7 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 
 ## 📈 Experience
 
-[![**TCM Skylift**](assets/images/TCM%20Skylift.svg)](https://tcmskylift.com)  
+### [**TCM Skylift**](https://tcmskylift.com)  
 
 **Embedded Software Developer**  
 *(Feb 2025 – Present)*  
@@ -54,7 +54,7 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 - Performed SIL2-compliant software testing to ensure reliability and safety.  
   
 
-[![**IgniCode**](assets/images/Igni%20Code.svg)](https://ignicode.com/)  
+### [**IGNI Code**](https://ignicode.com/)  
 
 **Information Technology Tutor**  
 *(Sep 2022 – Jan 2025)*  
@@ -64,7 +64,7 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 - Designed engaging educational activities using Python and Arduino.  
   
 
-[![**Turkish Air Force**](assets/images/Turkish%20Air%20Force.svg)](https://www.hvkk.tsk.tr)  
+### [**Turkish Air Force**](https://www.hvkk.tsk.tr)  
 
 **Department Chair**  
 *(Sep 2017 – Aug 2022)*  
@@ -81,7 +81,7 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 - Taught core courses in Circuit Theory, Electronics, Microcontrollers, and Programming, integrating both theory and practical lab work.  
   
 
-[![**NATO**](assets/images/NATO.svg)](https://www.nato.int)  
+### [**NATO**](https://www.nato.int)  
 
 **Project Officer**  
 *(Jul 2020 – Jan 2021)*  
@@ -91,7 +91,7 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 - Monitored project performance, delivered progress reports, and recommended process improvements to boost efficiency in multinational operations.  
   
 
-[![**Turkish National Defense University**](assets/images/Turkish%20National%20Defense%20University.svg)](https://www.msu.edu.tr)  
+### [**Turkish National Defense University**](https://www.msu.edu.tr)  
 
 **Parttime Lecturer**  
 *(Sep 2018 – Jun 2020)*  
@@ -102,13 +102,13 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 
 ## 🎓 Education & Certification
 
-[![**Marmara University**](assets/images/Marmara%20University.svg)](https://www.marmara.edu.tr)  
+### [**Marmara University**](https://www.marmara.edu.tr)  
 
 **Electronics and Computer Education - B.Sc.**  
 *(Sep 2005 – Jun 2010)*  
   
 
-[![**Clarusway**](assets/images/Clarusway.svg)](https://clarusway.com/)  
+### [**Clarusway**](https://clarusway.com/)  
 
 **Data Analytics - Certified Training**  
 *(Jan 2022 – Oct 2022)*  
