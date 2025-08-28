@@ -20,27 +20,27 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 
 ### Frameworks
 
-![.NET](assets/badges/NET.svg)
-![ASP.NET Core](assets/badges/ASP.svg)  
+[![.NET](assets/badges/NET.svg)](#frameworks)
+[![ASP.NET Core](assets/badges/ASP.svg)](#frameworks)  
 
 ### Tools
 
-![VS Code](assets/badges/VS%20Code.svg)
-![CODESYS](assets/badges/CODESYS.svg)
-![GitHub](assets/badges/GitHub.svg)  
+[![VS Code](assets/badges/VS%20Code.svg)](#tools)
+[![CODESYS](assets/badges/CODESYS.svg)](#tools)
+[![GitHub](assets/badges/GitHub.svg)](#tools)  
 
 ### Protocols
 
-![CANopen](assets/badges/CANopen.svg)
-![Modbus](assets/badges/Modbus.svg)
-![EtherCAT](assets/badges/EtherCAT.svg)  
+[![CANopen](assets/badges/CANopen.svg)](#protocols)
+[![Modbus](assets/badges/Modbus.svg)](#protocols)
+[![EtherCAT](assets/badges/EtherCAT.svg)](#protocols)  
 
 ### Systems
 
-![PLC](assets/badges/PLC.svg)
-![HMI](assets/badges/HMI.svg)
-![SCADA](assets/badges/SCADA.svg)
-![Safety-Critical](assets/badges/Safety--Critical.svg)  
+[![PLC](assets/badges/PLC.svg)](#systems) 
+[![HMI](assets/badges/HMI.svg)](#systems)
+[![SCADA](assets/badges/SCADA.svg)](#systems)
+[![Safety-Critical](assets/badges/Safety--Critical.svg)](#systems)  
 
 ## 📈 Experience
 
