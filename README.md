@@ -13,10 +13,10 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 
 ### Languages
 
-![C#](assets/badges/C%20Sharp.svg)
-![Structured Text](assets/badges/Structured%20Text.svg)
-![Python](assets/badges/Python.svg)
-![SQL](assets/badges/SQL.svg)  
+[![C#](assets/badges/C%20Sharp.svg)](#languages)
+[![Structured Text](assets/badges/Structured%20Text.svg)](#languages)
+[![Python](assets/badges/Python.svg)](#languages)
+[![SQL](assets/badges/SQL.svg)](#languages)  
 
 ### Frameworks
 
