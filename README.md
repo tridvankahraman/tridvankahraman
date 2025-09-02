@@ -54,7 +54,7 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 - Performed SIL2-compliant software testing to ensure reliability and safety.  
   
 
-### [**IGNI Code Academy**](https://ignicode.com/)  
+### [**IGNI Code**](https://ignicode.com/)  
 
 **Information Technology Tutor**  
 *(Sep 2022 – Jan 2025)*  
