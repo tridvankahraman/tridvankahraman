@@ -44,7 +44,7 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 
 ## 📈 Experience
 
-### [**TCM Skylift**](https://tcmskylift.com)  
+### [**BELTAŞ Firefighting Technologies**](https://beltasyangin.com)  
 
 **Embedded Software Developer**  
 *(Feb 2025 – Present)*  
@@ -54,7 +54,7 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 - Performed SIL2-compliant software testing to ensure reliability and safety.  
   
 
-### [**IGNI Code**](https://ignicode.com/)  
+### [**IGNI Code Academy**](https://ignicode.com/)  
 
 **Information Technology Tutor**  
 *(Sep 2022 – Jan 2025)*  
